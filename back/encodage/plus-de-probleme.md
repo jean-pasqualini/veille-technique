@@ -1,0 +1,1 @@
+http://www.abeautifulsite.net/tips-for-supporting-utf-8-in-your-php5-applications/

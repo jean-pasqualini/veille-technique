@@ -16,6 +16,8 @@
 
 - Cheatsheet (pdf/davechild_linux-command-line.pdf)
 - Comment voir l'état de progression de l'import d'une bdd mysql ? (pdf/pv _ Avoir des informations sur le temps d'une tache.pdf)
+- Comment afficher un json en ligne de commande (http://xmodulo.com/how-to-parse-json-string-via-command-line-on-linux.html)
+
 
 ### Mobile
 

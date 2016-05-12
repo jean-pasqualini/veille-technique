@@ -5,6 +5,7 @@
 - http://keiruaprod.fr/symblog-fr/docs/tests-unitaires-et-fonctionels-phpunit.html
 - http://docs.behat.org/en/v3.0/
 - https://www.browserstack.com/
+- http://saucelabs.com/
 
 ## Selenium
 
